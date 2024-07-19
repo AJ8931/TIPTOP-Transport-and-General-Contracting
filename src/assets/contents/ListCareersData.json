@@ -1,0 +1,26 @@
+{
+    "Service1": {
+        "header1": "Experience Mason",
+        "para1": "At Tiptop Contracting Company, we're always on the lookout for experienced masons to join our team. If you're a skilled and dedicated professional with a passion for high-quality masonry work, we'd love to hear from you. Here's what you need to know about joining our team.",
+        "header2": "Mason Responsibilities",
+        "para2": "Reading and interpreting blueprints and construction drawings to determine the layout and specifications of structures <br/> Selecting and sourcing appropriate bricks, stones, and mortar for each project <br/> Laying out patterns and designs for walls, chimneys, and other structures <br/> Mixing mortar and applying it to bricks and stones to create a strong bond <br/> Cutting and shaping bricks and stones to fit specific spaces as needed <br/> Building and repairing walls, chimneys, and other structures to meet specifications and safety standards <br/> Ensuring that work is completed efficiently, safely, and to a high standard of quality <br/> Maintaining tools and equipment and following safety guidelines at all times <br/> Communicating effectively with other team members and supervisors to ensure that projects are completed on time and within budget",
+        "header3": "Requirements:",
+        "para3": "At least 5 years of experience in masonry work <br/> Ability to read and interpret blueprints and construction drawings <br/> Strong understanding of different types of bricks, stones, and mortar <br/> Experience with building and repairing walls, chimneys, and other structures <br/> Ability to work well as part of a team and follow safety guidelines <br/> Valid driver's license and reliable transportation."
+    },
+    "Service2": {
+        "header1": "General Helper",
+        "para1": "At Tiptop Contracting Company, we're seeking a reliable and hardworking General Helper to join our team. As a General Helper, you'll play a critical role in supporting our team of skilled tradespeople and ensuring that our projects are completed safely, efficiently, and to a high standard of quality.",
+        "header2": "Responsibilities",
+        "para2": "Assisting skilled tradespeople, such as masons and carpenters, with a variety of tasks as needed <br/> Preparing and cleaning job sites before and after each project <br/> Carrying materials and tools to and from job sites <br/> Setting up and operating tools and equipment under the guidance of skilled tradespeople <br/> Maintaining tools and equipment in good working condition <br/> Following safety guidelines at all times and ensuring that work is completed safely and efficiently <br/> Communicating effectively with other team members and supervisors to ensure that projects are completed on time and within budget",
+        "header3": "Requirements",
+        "para3": "High school diploma or equivalent <br/> Ability to lift heavy objects and perform physically demanding tasks <br/> Willingness to learn and follow directions <br/> Strong work ethic and reliability <br/> Ability to work well as part of a team and follow safety guidelines <br/> Valid driver's license and reliable transportation"
+    },
+    "Service3": {
+        "header1": "Driver",
+        "para1": "At Tiptop Contracting Company, we're seeking a responsible and experienced HTV Driver to join our team. As an HTV Driver, you'll be responsible for ensuring the safe and timely transportation of heavy equipment, materials, and tools to and from job sites.",
+        "header2": "Responsibilities",
+        "para2": "Operating and maintaining HTV vehicles, such as trucks and trailers, in compliance with local, state, and federal regulations <br/> Ensuring that all loads are properly secured and transported safely to their destination <br/> Conducting pre-trip and post-trip inspections of vehicles and equipment to ensure that they are in good working condition <br/> Communicating effectively with other team members and supervisors to ensure that deliveries are made on time and within budget <br/> Maintaining accurate records of deliveries, including trip logs, expenses, and receipts <br/> Following safety guidelines at all times and reporting any accidents or incidents to management immediately",
+        "header3": "Requirements",
+        "para3": "Valid HTV driving license and clean driving record <br/> Minimum of 3 years of experience in driving HTV vehicles <br/> Knowledge of local, state, and federal regulations for commercial driving <br/> Ability to operate and maintain HTV vehicles and equipment <br/> Strong communication skills and ability to work well as part of a team <br/> Willingness to work flexible hours and travel to different job sites as needed"
+    }
+}

@@ -1,0 +1,29 @@
+{
+    "TeamObject": [
+        {
+            "id": "0",
+            "name": "Zafar Iqbal",
+            "Rank": "Human Resources Manager",
+            "des": "Zafar is an experienced HR Manager known for his exceptional communication skills and ability to create a positive workplace culture.",
+            "img": "Zafar_Iqbal",
+            "email":"zafariqbal@tiptoptransp.com"
+            
+        },
+        {
+            "id": "1",
+            "name": "Khanzala",
+            "Rank": "Manager",
+            "des": "Khanzala is a results-driven Manager who inspires and motivates her team to achieve business objectives.",
+            "img": "Khanzala",
+            "email":"khanzala@tiptoptransp.com"
+        },
+        {
+            "id": "2",
+            "name": "Abdur Rehman",
+            "Rank": "Public Relations Manager",
+            "des": "Abdur is a skilled PR Manager with a talent for crafting compelling messaging and building strong relationships with stakeholders.",
+            "img": "Abdur_Rehman",
+            "email":"abdurrehman@tiptoptransp.com"
+        }
+    ]
+}

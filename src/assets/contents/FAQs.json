@@ -1,0 +1,19 @@
+{
+    "ArrayObject": [
+        {
+            "id": "1",
+            "question": "What types of vehicles do you offer?",
+            "Answer": "We offer a range of heavy vehicles and cars for construction purposes, including bulldozers, excavators, dump trucks, and more."
+        },
+        {
+            "id": "2",
+            "question": "What types of contracting services?",
+            "Answer": "We offer a variety of contracting services for building projects, including project management, site preparation, excavation, foundation work, and more."
+        },
+        {
+            "id": "3",
+            "question": "Do you offer financing options",
+            "Answer": "Yes, we offer flexible financing options to help you manage the costs of your project."
+        }
+    ]
+}

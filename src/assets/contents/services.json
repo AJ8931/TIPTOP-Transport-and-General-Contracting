@@ -1,0 +1,39 @@
+{
+    "Services": [
+        {
+            "id": "0",
+            "heading": "Interlock",
+            "Paragraph": "An interlock is a feature that makes the state of two mechanisms or functions mutually dependent. It may be used to prevent undesired states in a finite-state machine, and may consist of any electrical, electronic, or mechanical devices or systems."
+        },
+        {
+            "id": "1",
+            "heading": "Floor",
+            "Paragraph": "A floor is the bottom surface of a room or vehicle. Floors vary from simple dirt in a cave to many layered surfaces made with modern technology. Floors may be stone, wood, bamboo, metal or any other material that can support the expected load. "
+        },
+        {
+            "id": "2",
+            "heading": "Wall",
+            "Paragraph": "A wall is a structure and a surface that defines an area; carries a load; provides security, shelter, or soundproofing; or, is decorative."
+        },
+        {
+            "id": "3",
+            "heading": "Ceramic Tiles Work",
+            "Paragraph": "Tile is a company offering trackers that connect via Bluetooth Low Energy (Bluetooth LE or BLE), allowing the owner to use a smartphone app to locate those trackers on demand."
+        },
+        {
+            "id": "4",
+            "heading": "Plumbing",
+            "Paragraph": "Plumbing may be defined as the practice, materials, and fixtures used in installing, maintaining, and altering piping, fixtures, appliances, and appurtenances in connection with sanitary or storm drainage facilities, a venting system, and public or private water supply systems."
+        },
+        {
+            "id": "5",
+            "heading": "Water Drainage System",
+            "Paragraph": "Surface drainage systems remove excess water from the land’s surface through channels or ditches. In some cases, the ground surface is shaped or graded to create sloping toward the channels. Different types of surfaces drainage systems are open drains, humps and hollows, levees, and grassed waterways."
+        },
+        {
+            "id": "6",
+            "heading": "General Transport",
+            "Paragraph": "R J Honesty Contracting and General Transport is a leading provider of logistics transportation and heavy equipment rental services. Cactus Transport prides itself on service and competitive pricing. We are an organization that will listen to its clients and provide them with customized solutions to meet the challenges of their daily equipment rental needs. We have more options in the range of machinery that is offered and our equipments serve many industries such as construction, Events, Manufacturing, Oil & Gas field and Marine Industry. Our staff has the experience to resolve problems and help with difficult situations making us a reliable partner for the growth of your business. We look forward to working with you and helping you with your business."
+        }
+    ]
+}
